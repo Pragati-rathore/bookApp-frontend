@@ -19,12 +19,14 @@ export default function Home() {
     }
   }, [navigate, location.pathname]);
   return (
-    <div className="home-wrapper">
+    <div className="homeout">
+      <div className="logOut">
       {location.pathname.split("/")[1] === "books" && (
         <button id="logout" type="button" onClick={logOut}>
           Logout
         </button>
       )}
+      </div>
       <Outlet />
     </div>
   );

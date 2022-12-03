@@ -3,7 +3,7 @@
   width: 500px;
   padding: 20px;
   background-color: #EAEAEA;
-  box-shadow: 2px 2px 1px 2px #08D9D6;
+  box-shadow: 2px 2px 1px 2px #daf0ef;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -43,7 +43,7 @@ label {
 }
 
 .btn3 {
-  background-color: #252A34;
+  background-color: #6794ec;
   color: #EAEAEA;
   border: none;
   margin-top: 20px;

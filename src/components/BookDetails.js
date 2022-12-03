@@ -66,7 +66,7 @@ export default function BookDetails() {
   }, [location.pathname]);
 
   return (
-    <div className="wrapper-login2">
+    <div className="login2">
       <button
         className="btn regBtn"
         type="button"
