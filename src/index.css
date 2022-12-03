@@ -1,0 +1,32 @@
+:root {
+  font-size: 16px;
+  font: sans-serif;
+  background-color:white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin:0;
+  padding: 0;
+}
